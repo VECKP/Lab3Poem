@@ -4,14 +4,6 @@
 # Version Control Concepts 
 *Experiencing Collaboration Problems and Designing Solutions*
 
-## Introduction
-
-Your professor will demonstrate how to create a private repository and add your teammates.  Make sure to add your prof also!
-
-
-## Collaboration Chaos & System Design Challenge (Team of 2)
-
-### Part A: Collaboration Chaos Simulation (15 minutes)
 
 
 # Lab 3 Rubric - Version Control Concepts
