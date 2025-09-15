@@ -1,20 +1,50 @@
 commit a1b2c3d4e5f6
-Author: Victor <Vpeters4@mysenenca.ca>
+Author: Victor <userdata@myemail.ca>
 Date: Mon Sept15 14:30:00 2025
 Message: LAB: 
 
+ Lab 3:Version Control Concepts
+By: Sapphire Grant & Victor Peters
+Collaboration Chaos & system design challenge
+Part A: Collaboration Chaos Simulation
+Original Poem:
+Roses are Red, Violets are blue, Programming is fun, And Team is too.
+
+Edited Poem:Roses are red, Violets are blue,The sky Holds the sun, 
+Programming can be fun and teamwork is too. Coding is fun,
+Without music it can’t be done. 
+Final Poem:  Roses are Red, the Atlantic is blue, Programming can be fun and teamwork is too. The sky holds the sun, and coding is fun, but without music it can’t be done.
+ 
+Part B: Problem Analysis
+1. There are changes made with the poem.
+2. We look at our poems' modifications by the team.
+3. If we are 5 in the team it will be easier and more information will be stored.
+4. Since we are doing the text file we talk about which will be added or made changes with the poem.
+ 
+ 
+ 
+ 
+ 
+
+Part C: Documentation
+Modify poem based on both information
+  Commit and save the new version
+ Modify the poem based on the team decision
+ Check both versions and select certain lines to edit for the poem
+ Push and share with team
+1. Our system works by first modifying some of the poem lines. After we modified the poem, we as a team shared our insights in our modifications. After sharing our insights, we made changes to the poem for us to make the better version of it.
+2. Added new lines, edited some words, and changed punctuation at the end of the poem.
+Part C: Wrap up questions
+1. Collaboration chaos is more on talking about the changes that needs to be made.
+
+2. The changes that need to be made since we have different versions of our poem.
+3. If there would be 10 people collaborating it would be much easier and more information to share with.
+4. It will be easier since we are four in the team and we can discuss it.
+ 
 
 
-Origianl Poem:
-Roses are red,
-Violets are blue,
-Programming is fun,
-And teamwork is too.
 
-ediited by victor
-Roses are red,
-Orcids are pink, 
-please check your inbox,
-because I sent a link 
 
+
+ 
 
